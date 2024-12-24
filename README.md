@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm **Lime-Cocoa**!
 
-<!--
-**Lime-Cocoa/Lime-Cocoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Github Metrics:**
 
-Here are some ideas to get you started:
+<p align="center">
+	<img src="/github-metrics.svg" alt="Metrics" width="400">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Status:**
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=Lime-Cocoa&show_icons=true&hide_border=true&count_private=true" alt="status" width="400">
+</p>
